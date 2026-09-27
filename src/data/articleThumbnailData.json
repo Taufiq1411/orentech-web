@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Memahami Nilai CSPF pada Label Energi AC",
+    "category": "Pengetahuan",
+    "date": "20 September 2026",
+    "summary": "Membahas mengenai metode pengukuran CSPF (Cooling Season Performance Factor) dan pengaruhnya terhadap tagihan listrik harian.",
+    "image": "/assets/cspflabel.png",
+    "link": "/insight/memahami-cspf"
+  },
+  {
+    "id": 2,
+    "title": "AC Inverter vs Non-Inverter: Mana Yang Lebih Hemat Listrik?",
+    "category": "Pengetahuan",
+    "date": "21 September 2026",
+    "summary": "Membahas mengenai perbedaan cara kerja ac inverter vs non inverter serta pemilihan jenis yang tepat untuk ruangan anda",
+    "image": "/assets/invertervsnonac.jpg",
+    "link": "/insight/ac-inverter-vs-non-inverter"
+  },
+  {
+    "id": 3,
+    "title": "Blue Fin vs Gold Fin vs Black Fin vs Green Fin, mana yang paling bagus ?",
+    "category": "Pengetahuan",
+    "date": "22 September 2026",
+    "summary": "Membahas mengenai vriasi jenis coating pada fin evaporator dan kondensor",
+    "image": "/assets/variationfin.jpg",
+    "link": "/insight/coating-ac"
+  },
+  {
+    "id": 4,
+    "title": "Tips Agar Ac Anda Awet",
+    "category": "Panduan",
+    "date": "23 September 2026",
+    "summary": "Membahas mengenai beberapa tips untuk anda agar ac anda awet",
+    "image": "/assets/olddurableac.webp",
+    "link": "/insight/tips-agar-ac-awet"
+  },
+  {
+    "id": 5,
+    "title": "5 Tanda AC Anda Sudah Harus Dicuci atau Servis",
+    "category": "Panduan",
+    "date": "24 September 2026",
+    "summary": "Mengenali indikasi penurunan performa pendinginan dan tanda-tanda fisik saat unit indoor AC mulai kotor.",
+    "image": "/assets/dirtyac.png",
+    "link": "/insight/tanda-ac-harus-dicuci"
+  },
+  {
+    "id": 6,
+    "title": "Mengenal Ac OEM/ODM",
+    "category": "Pengetahuan",
+    "date": "25 September 2026",
+    "summary": "Mengenali beberapa model ac yang tampilan indoor dan outdoornya yang mungkin membuat anda bertanya-tanya",
+    "image": "/assets/oemac.avif",
+    "link": "/insight/ac-oem"
+  }
+]

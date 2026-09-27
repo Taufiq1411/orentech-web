@@ -1,0 +1,587 @@
+{
+  "half_pk": {
+    "title": "Top AC Paling Hemat Listrik Kapasitas 1/2 PK",
+    "items": [
+      {
+        "rank": 1,
+        "model": "Daikin FTKQ15UVM4",
+        "cspf": 6.59,
+        "status": "discontinue",
+        "btu": "5.100 BTU/h",
+        "watt": "420 Watt (170 - 620 W)",
+        "image": "/assets/DaikinFlash.jpg",
+        "highlights": [
+          "Super PCB",
+          "Mode Low Watt",
+          "Powerfull"
+        ]
+      },
+      {
+        "rank": 2,
+        "model": "Daikin FTKC15TVM4",
+        "cspf": 6.55,
+        "status": "discontinue",
+        "btu": "5.100 BTU/h",
+        "watt": "310 Watt (130 - 580 W)",
+        "image": "/assets/DaikinStar.jpg",
+        "highlights": [
+          "Intelligent Eye",
+          "Super PCB",
+          "Mode Low Watt"
+        ]
+      },
+      {
+        "rank": 3,
+        "model": "Daikin FTKH15YV14",
+        "cspf": 6.49,
+        "status": "active",
+        "btu": "5.100 BTU/h",
+        "watt": "310 Watt (130 - 540 W)",
+        "image": "/assets/DaikinFTKH.jpg",
+        "highlights": [
+          "Streamer & Gin-ION Filter",
+          "Built In Wifi",
+          "Intelligent Eye"
+        ]
+      },
+      {
+        "rank": 4,
+        "model": "Mitsubishi Electric MSYJT05VF",
+        "cspf": 6.04,
+        "status": "active",
+        "btu": "5.118 BTU/h",
+        "watt": "355 Watt (140 - 570 W)",
+        "image": "/assets/MEJT.jpg",
+        "highlights": [
+          "MEQ",
+          "Dual Barrier Coating",
+          "Blue Fin Condensor"
+        ]
+      },
+      {
+        "rank": 5,
+        "model": "Hisense AI06KCG",
+        "cspf": 5.8,
+        "status": "active",
+        "btu": "6.000 BTU/h",
+        "watt": "430 Watt",
+        "image": "/assets/HisenseKCG.jpg",
+        "highlights": [
+          "Eco Mode",
+          "Gold Fin",
+          "Self Clean"
+        ]
+      }
+    ]
+  },
+  "three_quarter_pk": {
+    "title": "Top AC Paling Hemat Listrik Kapasitas 3/4 PK",
+    "items": [
+      {
+        "rank": 1,
+        "model": "Daikin FTKH20YV14",
+        "cspf": 8.18,
+        "status": "active",
+        "btu": "6.800 BTU/h",
+        "watt": "450 Watt (190 - 1.080 W)",
+        "image": "/assets/DaikinFTKH.jpg",
+        "highlights": [
+          "Streamer & Gin-ION Filter",
+          "Built In Wifi",
+          "Intelligent Eye"
+        ]
+      },
+      {
+        "rank": 2,
+        "model": "Daikin FTKQ20UVM4",
+        "cspf": 6.4,
+        "status": "discontinue",
+        "btu": "6.800 BTU/h",
+        "watt": "690 Watt (190 - 980 W)",
+        "image": "/assets/DaikinFlash.jpg",
+        "highlights": [
+          "Super PCB",
+          "Mode Low Watt",
+          "Powerfull"
+        ]
+      },
+      {
+        "rank": 3,
+        "model": "Mitsubishi Electric MSYJT07VF",
+        "cspf": 6.21,
+        "status": "active",
+        "btu": "7.100 BTU/h",
+        "watt": "480 Watt (160 - 650 W)",
+        "image": "/assets/MEJT.jpg",
+        "highlights": [
+          "MEQ",
+          "Dual Barrier Coating",
+          "Blue Fin Condensor"
+        ]
+      },
+      {
+        "rank": 4,
+        "model": "Daikin FTKC20TVM4",
+        "cspf": 6.06,
+        "status": "discontinue",
+        "btu": "6.800 BTU/h",
+        "watt": "470 Watt (150 - 630 W)",
+        "image": "/assets/DaikinStar.jpg",
+        "highlights": [
+          "Intelligent Eye",
+          "Super PCB",
+          "Mode Low Watt"
+        ]
+      },
+      {
+        "rank": 5,
+        "model": "Sharp AH-X8BEY",
+        "cspf": 5.13,
+        "status": "active",
+        "btu": "7.000 BTU/h",
+        "watt": "560 Watt (180 - 700 W)",
+        "image": "/assets/SharpBEY.jpg",
+        "highlights": [
+          "Super Jet Mode",
+          "WattFit",
+          "Garuda AirFlow"
+        ]
+      }
+    ]
+  },
+  "one_pk": {
+    "title": "Top AC Paling Hemat Listrik Kapasitas 1 PK",
+    "items": [
+      {
+        "rank": 1,
+        "model": "Daikin FTKZ25XVM4",
+        "cspf": 8.23,
+        "status": "active",
+        "btu": "8.500 BTU/h",
+        "watt": "455 Watt (160 - 890 W)",
+        "image": "/assets/DaikinZeta.png",
+        "highlights": [
+          "Streamer + Mold Proof",
+          "Hybrid Cooling",
+          "Intelligent Eye + Built In Wifi"
+        ]
+      },
+      {
+        "rank": 2,
+        "model": "Sharp AH-XP10VXY",
+        "cspf": 8.22,
+        "status": "discontinue",
+        "btu": "9.000 BTU/h",
+        "watt": "460 Watt (230 - 1.000 W)",
+        "image": "/assets/SharpVXY.avif",
+        "highlights": [
+          "Plasmacluster",
+          "AIoT (Built In Wifi)",
+          "7 Shields Protection"
+        ]
+      },
+      {
+        "rank": 3,
+        "model": "Daikin FTKM25SVM4",
+        "cspf": 7.92,
+        "status": "discontinue",
+        "btu": "8.500 BTU/h",
+        "watt": "520 Watt (185 - 920 W)",
+        "image": "/assets/DaikinFTKM.jpg",
+        "highlights": [
+          "Premium Cooling",
+          "Intelligent Eye",
+          "3D Airflow"
+        ]
+      },
+      {
+        "rank": 4,
+        "model": "Daikin FTKH25YV14",
+        "cspf": 7.17,
+        "status": "active",
+        "btu": "9.000 BTU/h",
+        "watt": "760 Watt (190 - 1.130 W)",
+        "image": "/assets/DaikinFTKH.jpg",
+          "highlights": [
+          "Streamer & Gin-ION Filter",
+          "Built In Wifi",
+          "Intelligent Eye"
+        ]
+      },
+      {
+        "rank": 5,
+        "model": "Mitsubishi Heavy Industries SRK10YYM-W3",
+        "cspf": 6.71,
+        "status": "active",
+        "btu": "9.554 BTU/h",
+        "watt": "710 Watt",
+        "image": "/assets/MHIYYM.png",
+        "highlights": [
+          "Jet Flow",
+          "Ion + Anti Microbial Fan",
+          "3D Auto"
+        ]
+      },
+      {
+        "rank": 6,
+        "model": "Daikin FTKC25TVM4",
+        "cspf": 6.35,
+        "status": "discontinue",
+        "btu": "8.500 BTU/h",
+        "watt": "680 Watt (190 - 1.100 W)",
+        "image": "/assets/DaikinStar.jpg",
+        "highlights": [
+          "Intelligent Eye",
+          "Super PCB",
+          "Mode Low Watt"
+        ]
+      },
+      {
+        "rank": 7,
+        "model": "Gree GWC-09AIRY",
+        "cspf": 6.23,
+        "status": "active",
+        "btu": "9.900 BTU/h",
+        "watt": "620 Watt (170 - 1.330 W)",
+        "image": "/assets/GreeAiry.webp",
+        "highlights": [
+          "AI G-Learning",
+          "UVC Lamp + Cold Plasma",
+          "Voice Control + Built In Wifi"
+        ]
+      },
+      {
+        "rank": 8,
+        "model": "Gree GWC-09Freair",
+        "cspf": 6.23,
+        "status": "discontinue",
+        "btu": "9.200 BTU/h",
+        "watt": "612 Watt (75 - 1.670 W)",
+        "image": "/assets/GreeFreair.png",
+        "highlights": [
+          "Fresh Air",
+          "CO2 Detector",
+          "Smart Cleaner"
+        ]
+      },
+      {
+        "rank": 9,
+        "model": "Panasonic CS-HU10CKJ",
+        "cspf": 6.04,
+        "status": "active",
+        "btu": "9.720 BTU/h",
+        "watt": "730 Watt (225 - 920 W)",
+        "image": "/assets/PanasonicHU.jpeg",
+        "highlights": [
+          "Nanoe-X Mark3",
+          "Clean Air Indicator",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 10,
+        "model": "Xiaomi ASC-09WO/N1C5-ID",
+        "cspf": 5.74,
+        "status": "active",
+        "btu": "9.000 BTU/h",
+        "watt": "600 Watt (190 - 1.100 W)",
+        "image": "/assets/Xiaomi.png",
+        "highlights": [
+          "AI Energy Saving",
+          "Gentle Air",
+          "Built In Wifi"
+        ]
+      }
+    ]
+  },
+  "one_half_pk": {
+    "title": "Top AC Paling Hemat Listrik Kapasitas 1.5 PK",
+    "items": [
+      {
+        "rank": 1,
+        "model": "Daikin FTKZ35XVM4",
+        "cspf": 7.43,
+        "status": "active",
+        "btu": "11.900 BTU/h",
+        "watt": "790 Watt (160 - 1.120 W)",
+        "image": "/assets/DaikinZeta.png",
+        "highlights": [
+          "Streamer + Mold Proof",
+          "Hybrid Cooling",
+          "Intelligent Eye + Built In Wifi"
+        ]
+      },
+      {
+        "rank": 2,
+        "model": "Sharp AH-XP13VXY",
+        "cspf": 7.39,
+        "status": "discontinue",
+        "btu": "11.600 BTU/h",
+        "watt": "720 Watt (230 - 1.450 W)",
+        "image": "/assets/SharpVXY.avif",
+        "highlights": [
+          "Plasmacluster",
+          "AIoT (Built In Wifi)",
+          "7 Shields Protection"
+        ]
+      },
+      {
+        "rank": 3,
+        "model": "Gree GWC-12Freair",
+        "cspf": 7.29,
+        "status": "discontinue",
+        "btu": "12.600 BTU/h",
+        "watt": "822 Watt (75 - 1.700 W)",
+        "image": "/assets/GreeFreair.png",
+        "highlights": [
+          "Fresh Air",
+          "CO2 Detector",
+          "Smart Cleaner"
+        ]
+      },
+      {
+        "rank": 4,
+        "model": "Daikin FTKM35SVM4",
+        "cspf": 6.95,
+        "status": "discontinue",
+        "btu": "11.900 BTU/h",
+        "watt": "900 Watt",
+        "image": "/assets/DaikinFTKM.jpg",
+        "highlights": [
+          "Premium Cooling",
+          "Intelligent Eye",
+          "3D Airflow"
+        ]
+      },
+      {
+        "rank": 5,
+        "model": "Hisense AI12VBGF",
+        "cspf": 6.95,
+        "status": "active",
+        "btu": "12.000 BTU/h",
+        "watt": "920 Watt",
+        "image": "/assets/HisenseVAGF.webp",
+        "highlights": [
+          "Fresh Air",
+          "Hi-Nano",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 6,
+        "model": "Daikin FTKC35TVM4",
+        "cspf": 6.36,
+        "status": "discontinue",
+        "btu": "11.900 BTU/h",
+        "watt": "960 Watt (250 - 1.460 W)",
+        "image": "/assets/DaikinStar.jpg",
+        "highlights": [
+          "Intelligent Eye",
+          "Super PCB",
+          "Mode Low Watt"
+        ]
+      },
+      {
+        "rank": 7,
+        "model": "Panasonic CS-HU13CKJ",
+        "cspf": 6.18,
+        "status": "active",
+        "btu": "12.500 BTU/h",
+        "watt": "1000 Watt (260 - 1.200 W)",
+        "image": "/assets/PanasonicHU.jpeg",
+        "highlights": [
+          "Nanoe-X Mark3",
+          "Clean Air Indicator",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 8,
+        "model": "Mitsubishi Heavy Industries SRK13YYM-W3",
+        "cspf": 6.17,
+        "status": "active",
+        "btu": "12.284 BTU/h",
+        "watt": "1.180 Watt (230 - 1.350 W)",
+        "image": "/assets/MHIYYM.png",
+        "highlights": [
+          "Jet Flow",
+          "Ion + Anti Microbial Fan",
+          "3D Auto"
+        ]
+      },
+      {
+        "rank": 9,
+        "model": "Panasonic CS-XU13XKP",
+        "cspf": 6.14,
+        "status": "discontinue",
+        "btu": "12.500 BTU/h",
+        "watt": "1000 Watt (260 - 1.200 W)",
+        "image": "/assets/PanasonicXU.png",
+        "highlights": [
+          "Nanoe-X",
+          "4 Way Swing",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 10,
+        "model": "Daikin FTKQ35UVM4",
+        "cspf": 5.98,
+        "status": "discontinue",
+        "btu": "11.900 BTU/h",
+        "watt": "1.220 Watt (200 - 1.470 W)",
+        "image": "/assets/DaikinFlash.jpg",
+        "highlights": [
+          "Super PCB",
+          "Mode Low Watt",
+          "Powerfull"
+        ]
+      }
+    ]
+  },
+  "two_pk": {
+    "title": "Top AC Paling Hemat Listrik Kapasitas 2 PK",
+    "items": [
+      {
+        "rank": 1,
+        "model": "Daikin FTKZ50XVM4",
+        "cspf": 7.0,
+        "status": "active",
+        "btu": "17.700 BTU/h",
+        "watt": "1.320 Watt (185 - 2.000 W)",
+        "image": "/assets/DaikinZeta.png",
+        "highlights": [
+          "Streamer + Mold Proof",
+          "Hybrid Cooling",
+          "Intelligent Eye + Built In Wifi"
+        ]
+      },
+      {
+        "rank": 2,
+        "model": "Panasonic CS-HU18CKJ",
+        "cspf": 6.93,
+        "status": "active",
+        "btu": "18.100 BTU/h",
+        "watt": "1.320 Watt (240 - 1.700 W)",
+        "image": "/assets/PanasonicHU.jpeg",
+        "highlights": [
+          "Nanoe-X Mark3",
+          "Clean Air Indicator",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 3,
+        "model": "Daikin FTKM50SVM4",
+        "cspf": 6.82,
+        "status": "discontinue",
+        "btu": "17.700 BTU/h",
+        "watt": "1.240 Watt",
+        "image": "/assets/DaikinFTKM.jpg",
+        "highlights": [
+          "Premium Cooling",
+          "Intelligent Eye",
+          "3D Airflow"
+        ]
+      },
+      {
+        "rank": 4,
+        "model": "Panasonic CS-XU18XKP",
+        "cspf": 6.75,
+        "status": "discontinue",
+        "btu": "18.100 BTU/h",
+        "watt": "1.320 Watt (270 - 1.820 W)",
+        "image": "/assets/PanasonicXU.png",
+        "highlights": [
+          "Nanoe-X",
+          "4 Way Swing",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 5,
+        "model": "Daikin FTKC50TVM4",
+        "cspf": 6.59,
+        "status": "discontinue",
+        "btu": "17.700 BTU/h",
+        "watt": "1.365 Watt (360 - 1.740 W)",
+        "image": "/assets/DaikinStar.jpg",
+        "highlights": [
+          "Intelligent Eye",
+          "Super PCB",
+          "Mode Low Watt"
+        ]
+      },
+      {
+        "rank": 6,
+        "model": "Mitsubishi Heavy Industries SRK18YYM-W3",
+        "cspf": 6.37,
+        "status": "active",
+        "btu": "18.084 BTU/h",
+        "watt": "1.590 Watt",
+        "image": "/assets/MHIYYM.png",
+        "highlights": [
+          "Jet Flow",
+          "Ion + Anti Microbial Fan",
+          "3D Auto"
+        ]
+      },
+      {
+        "rank": 7,
+        "model": "Gree GWC-18AIRY",
+        "cspf": 6.25,
+        "status": "active",
+        "btu": "19.000 BTU/h",
+        "watt": "1.390 Watt (325 - 2.100 W)",
+        "image": "/assets/GreeAiry.webp",
+        "highlights": [
+          "AI G-Learning",
+          "UVC Lamp + Cold Plasma",
+          "Voice Control + Built In Wifi"
+        ]
+      },
+      {
+        "rank": 8,
+        "model": "Aqua AQA-KR19VSW",
+        "cspf": 6.23,
+        "status": "active",
+        "btu": "19.000 BTU/h",
+        "watt": "1.400 Watt (300 - 1.670 W)",
+        "image": "/assets/AquaVSW.jpeg",
+        "highlights": [
+          "UVC Sterilization",
+          "Eco Sensor",
+          "Built In Wifi"
+        ]
+      },
+      {
+        "rank": 9,
+        "model": "Gree GWC-18F5S",
+        "cspf": 5.95,
+        "status": "active",
+        "btu": "18.000 BTU/h",
+        "watt": "1.580 Watt (300 - 1.750 W)",
+        "image": "/assets/GreeF5s.png",
+        "highlights": [
+          "Double Louver",
+          "Power Drop",
+          "Smart Cleaner"
+        ]
+      },
+      {
+        "rank": 10,
+        "model": "Daikin FTKH50YV14",
+        "cspf": 5.9,
+        "status": "active",
+        "btu": "19.000 BTU/h",
+        "watt": "1.700 Watt (420 - 2.200 W)",
+        "image": "/assets/DaikinFTKH.jpg",
+          "highlights": [
+          "Streamer & Gin-ION Filter",
+          "Built In Wifi",
+          "Intelligent Eye"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7E00" />
+      <stop offset="100%" stop-color="#E65100" />
+    </linearGradient>
+
+    <!-- Inner Glow/Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#FFE0B2" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded Squircle Base -->
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="url(#bgGrad)" />
+
+  <!-- Outer Ring "O" -->
+  <path 
+    d="M 256,112 C 176,112 112,176 112,256 C 112,336 176,400 256,400 C 336,400 400,336 400,256 C 400,176 336,112 256,112 Z M 256,164 C 306.8,164 348,205.2 348,256 C 348,306.8 306.8,348 256,348 C 205.2,348 164,306.8 164,256 C 164,205.2 205.2,164 256,164 Z" 
+    fill="url(#accentGrad)" 
+  />
+
+  <!-- Tech Core Node "T" / Circuit Dot -->
+  <circle cx="256" cy="256" r="32" fill="#FFFFFF" />
+  
+  <!-- Tech Connecting Traces -->
+  <rect x="244" y="200" width="24" height="40" rx="6" fill="#FFFFFF" />
+  <rect x="244" y="272" width="24" height="40" rx="6" fill="#FFFFFF" />
+  <rect x="200" y="244" width="40" height="24" rx="6" fill="#FFFFFF" />
+  <rect x="272" y="244" width="40" height="24" rx="6" fill="#FFFFFF" />
+</svg>

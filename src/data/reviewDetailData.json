@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "review-xiaomi-inverter-1-pk-asc-09wo-n1c5-id",
+    "title": "Review AC Xiaomi inverter 1 PK ASC-09WO/N1C5-ID",
+    "mainImage": "/assets/AcXiaomiFull.HEIC",
+    "intro": "Kali ini saya mau mereview Ac Xiaomi ASC-09WO/N1C5-ID yang saya beli dan pasang pada bulan Maret tahun 2025. Ac ini saya beli untuk kos saya dengan ukuran kamar kurang lebih 3 x 3 meter dengan tinggi 3 meter dan posisi di lantai 2 dengan 1 jendela ukuran standar.",
+    "sections": [
+      {
+        "title": "Design dan Build Quality",
+        "items": [
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiIndoor.jpeg",
+            "text": "Indoor AC ini memiliki design yang minimalis modern dengan aksen warna abu muda di area swing dan aksen bulat hitam untuk indicatornya. Saya pribadi suka dengan designnya. Untuk ukuran indoornya sendiri agak besar karena panjang indoor lebih dari 80 cm dan tinggi indoor lebih dari 30 cm. Untuk build quality plastiknya juga cukup bagus"
+          },
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiOutdoor.HEIC",
+            "text": "Bergeser ke luar, Outdoor AC ini memiliki design yang minimalis juga dengan aksen warna abu pada grill kipas outdoornya. Ukuran outdoor AC ini terbilang cukup besar karena panjang outdoor mencapai 80 cm dengan tinggi 55 cm, hampir seperti outdoor AC 2 PK. Untuk build qualitynya juga termasuk bagus."
+          }
+        ]
+      },
+      {
+        "title": "Jeroan",
+        "items": [
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiEvaporator.HEIC",
+            "text": "Evaporator pada indoor AC ini sudah dilapisi Blue Fin dengan uben evaporator dilapisi warna abu muda sehingga lebih \"worry free\" terhadap kebocoran refrigerant/freon akibat korosi."
+          },
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiCondensor.HEIC",
+            "text": "Kondensor pada outdoor AC ini juga sudah dilapisi Bluefin sehingga lebih tahan terhadap korosi."
+          },
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiFanoutdoor.HEIC",
+            "text": "Untuk fan motor Outdoor ac ini menggunakan motor BLDC merk Welling dengan rated 37 Watt, cukup powerfull untuk AC 1 PK."
+          },
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiKompresor.HEIC",
+            "text": "Untuk kompresornya sendiri menggunakan kompresor Highly GSX073CKSF6JV8, kompresor ini terbilang bagus apalagi di kelas harganya AC ini sudah sangat bagus, kompresor ini tidak perlu di ragukan lagi kualitas dan performanya"
+          }
+        ]
+      },
+      {
+        "title": "Remote dan Fitur",
+        "items": [
+          {
+            "type": "remote_features",
+            "image": "/assets/AcXiaomiRemote.jpeg",
+            "intro": "Remote AC ini memiliki beberapa tombol fungsi utama:",
+            "buttons": [
+              { "label": "Power", "desc": "Untuk menyalakan dan mematikan AC" },
+              { "label": "Mode", "desc": "Pilihan mode Cool, Dry, dan Fan only" },
+              { "label": "+ -", "desc": "Pengaturan suhu dengan presisi per 0.5°C" },
+              { "label": "Swing ^⌄, <>", "desc": "Atur arah swing vertikal dan horizontal" },
+              { "label": "Fan Speed", "desc": "Tersedia 7 level kecepatan kipas" },
+              { "label": "Sleep", "desc": "Matikan indikator, swing ke atas, & atur suhu bertahap" },
+              { "label": "Turbo", "desc": "Kecepatan maksimal untuk pendinginan instan" },
+              { "label": "Light", "desc": "Menyalakan atau mematikan indikator LED" },
+              { "label": "Low Watt", "desc": "Pembatas daya: L1 (440W), L2 (660W), L3 (880W)" },
+              { "label": "Airflow", "desc": "Mode gentle, swing atas, bawah, atau bebas" },
+              { "label": "Timer", "desc": "Timers otomatis mati dari 1 hingga 10 jam" }
+            ]
+          },
+          {
+            "type": "app_features",
+            "image": "/assets/AcXiaomiApp.jpeg",
+            "intro": "Beberapa fitur menarik AC ini untuk kelas harganya:",
+            "points": [
+              "Swing otomatis naik-turun dan kanan-kiri sehingga sebaran udara dingin lebih merata ke seluruh ruangan.",
+              "Pendinginan lembut dengan cara menutup swing kanan-kiri berlubang untuk aliran udara yang lebih halus.",
+              "Kontrol pintar via aplikasi Mi Home / Xiaomi App: mematikan suara beep, otomasi jadwal berdasarkan suhu ruangan, pemantauan konsumsi kWh harian, dan respons aplikasi yang sangat cepat."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Performa dan Efisiensi",
+        "items": [
+          {
+            "type": "standard",
+            "image": "/assets/AcXiaomiCSPF.HEIC",
+            "text": "Ac ini memiliki rating 5 bintang hemat energi dengan nilai CSPF 5.74, spesifikasi sebagai berikut:\nKapasitas pedinginan : 9.000 btu (2.130 - 12.000)\nDaya : 600 Watt (190 - 1.100)\n\nUntuk penggunaan di kamar 3x3x3 lantai 2 setiap hari Minggu-Kamis malam dari jam 5 sore sampai jam 5 pagi (12 jam) dengan set suhu 26-28C (aktual suhu ruangan yg di dinginkan 25-26C) menghabiskan rata-rata 1.5 kWh, cukup irit."
+          },
+          {
+            "type": "side_by_side",
+            "image": "/assets/TempHumid.jpeg",
+            "text": "Ac ini bisa menjaga humidity di bawah 60% dengan stabil sehingga ruangan masih cukup terjaga kelembapannya (tidak terlalu lembap), dinginnya ac ini tidak mengecewakan dengan karakteristik dingin yang lumayan nusuk."
+          },
+          {
+            "type": "side_by_side",
+            "image": "/assets/XiaomiWatt.jpeg",
+            "text": "Berdasarkan hasil pengetesan, aktual Lowest watt AC ini sebelum kompresor cut off ada di 130an Watt yang sudah cukup rendah dari klaimnya yang 190 Watt."
+          }
+        ]
+      }
+    ],
+    "notes": "Ac ini tidak memiliki fitur Auto Restart sehingga ketika sedang menggunakan ac dan terjadi mati listrik, ketika listrik kembali menyala AC harus dinyalakan lagi secara manual. Posisi thermis suhu ruangan juga sepertinya kurang ideal sehingga suhu ruangan actual yang di dinginkan bisa 1-2C lebih rendah dari suhu set remote. Service center juga mungkin belum tersebar merata seperti brand besar lain yang sudah lebih dulu jualan elektronik di Indonesia.",
+    "summary": "Dengan efisiensi paling irit untuk 1 PK inverter di kelas harganya (CSPF 5.74), full swing, bisa di kontrol dengan smartphone, Blue fin Evaporator dan kondensor, garansi 5+10 tahun, AC ini sangat worthed untuk harga 3-4 jutaan dan layak anda pertimbangkan. Enggak perlu khawatir untuk anda yang ruangannya kecil seperti saya karena AC ini aktual bisa turun sampai 130an Watt dan bisa di limit watt maksimalnya."
+  }
+]
